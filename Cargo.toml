@@ -2,6 +2,9 @@
 name = "rgb2xy"
 version = "0.1.0"
 authors = ["Colin Reeder <vpzomtrrfrt@gmail.com>"]
+license = "MIT"
+description = "Conversion function from RGB to XY for Hue lights"
+repository = "https://github.com/vpzomtrrfrt/rgb2xy"
 
 [dependencies]
 
