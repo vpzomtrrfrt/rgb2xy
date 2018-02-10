@@ -1,0 +1,9 @@
+[package]
+name = "rgb2xy"
+version = "0.1.0"
+authors = ["Colin Reeder <vpzomtrrfrt@gmail.com>"]
+
+[dependencies]
+
+[dev-dependencies]
+css-color-parser = "0.1.2"
